@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+pandas
+matplotlib
+seaborn
+numpy
+scipy
+scikit-learn
+jupyter
+notebook
+sqlalchemy
+google-cloud-bigquery
